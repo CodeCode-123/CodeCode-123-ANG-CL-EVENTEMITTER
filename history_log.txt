@@ -1,0 +1,7 @@
+commit e457f5ea37aefb993bdbe04685254a183d97480d
+Author: Shen Tang <adatang23@yahoo.com>
+Date:   Mon Jun 16 13:44:24 2025 +0000
+
+    completed the Angular - Event Emitter Lab
+
+ 6 files changed, 9 insertions(+), 3 deletions(-)
